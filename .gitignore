@@ -1,1 +1,11 @@
-node_modules/ echo *.env echo dev-data/ echo public/
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+*.env
+
+# Development data
+dev-data/
+
+# Public folder
+public/
